@@ -1,16 +1,16 @@
+
 ---
 
 # Tableau IPL Analysis Dashboard
 
-## Summary
+## Summary : 
 IPL Analysis Dashboard: Visualizing Orange Cap, Purple Cap, Highest Sixes, Fours, Man of the Match, and Toss Decisions
 
 ## Tableau Link
-https://public.tableau.com/app/profile/saitetha/viz/2008TO2022IPLANALYSIS_17095449880270/IPLANALYSIS 
+https://public.tableau.com/app/profile/saitetha/viz/2008TO2022IPLANALYSIS_17095449880270/IPLANALYSIS
 
 ## Image
-![IPL ANALYSIS](https://github.com/Saitetha/IPL-ANALYSIS-2022/assets/149963307/8684a55d-ba89-41ab-94c4-8097c54fb135)
-ysis Dashboard] 
+![IPL ANALYSIS](https://github.com/Saitetha/IPL-ANALYSIS-2022/assets/149963307/bb784311-c156-4536-95ed-e2b86e2d79c3)
 
 ## What it Visualizes Clearly in 5 Points [Features]
 1. Orange Cap: Shows the leading run-scorer in each IPL season.
@@ -29,7 +29,7 @@ To interact with this Tableau IPL Analysis Dashboard, follow these steps:
 
 ## Data Source
 The data used in this dashboard is sourced from reliable IPL datasets, including match statistics, player performances, and toss decisions. 
-Data Set : https://www.kaggle.com/datasets/dgsports/ipl-ball-by-ball-2008-to-2022
+Data Source Link : https://www.kaggle.com/datasets/vora1011/ipl-2008-to-2021-all-match-dataset?resource=download 
 
 ## Contribution
 Contributions to this Tableau IPL Analysis Dashboard are welcome. If you would like to contribute, please follow these steps:
