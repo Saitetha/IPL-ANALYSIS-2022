@@ -12,7 +12,7 @@ https://public.tableau.com/app/profile/saitetha/viz/2008TO2022IPLANALYSIS_170954
 ## Image
 ![IPL ANALYSIS](https://github.com/Saitetha/IPL-ANALYSIS-2022/assets/149963307/bb784311-c156-4536-95ed-e2b86e2d79c3)
 
-## What it Visualizes Clearly in 5 Points [Features]
+## Features
 1. Orange Cap: Shows the leading run-scorer in each IPL season.
 2. Purple Cap: Highlights the highest wicket-taker in each IPL season.
 3. Highest Sixes: Visualizes the players with the most sixes hit in a single IPL season.
