@@ -1,5 +1,3 @@
-Certainly! Here's the updated template for the Tableau IPL Analysis Dashboard:
-
 ---
 
 # Tableau IPL Analysis Dashboard
